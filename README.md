@@ -202,6 +202,7 @@ iCloud 서버에 저장하기 위한 Apple 프레임 워크
 
 #### 1️⃣ 하위 버전 호환성에는 문제가 없는가?
 **Realm iOS 9, Firebase는 iOS 11(Xcode 13.3.1)** 이상부터 지원하기 때문에 호환성과 관련한 이슈는 없을 것으로 생각됩니다.
+
 <img src="https://hackmd.io/_uploads/rk2ahOxBn.png" width="200">
 
 
